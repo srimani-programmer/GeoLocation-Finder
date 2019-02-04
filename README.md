@@ -1,6 +1,6 @@
 # GeoLocation finder
 
-A simple Geo-location tracker using python and the IpAddress, required data is fetching from the open source websites.
+A simple Geo-location tracker using python and the geolocation data is fetching from the open source websites.
 
 1. Ip Address Locater : http://checkip.dyndns.com/
 2. Location Data : http://ipinfo.io/(XXXXXXXXX)//json
