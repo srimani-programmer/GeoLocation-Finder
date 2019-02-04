@@ -2,9 +2,9 @@
 
 A simple Geo-location tracker using python and the IpAddress, required data is fetching from the open source websites.
 
-Ip Address Locater : http://checkip.dyndns.com/
-Location Data : http://ipinfo.io/(XXXXXXXXX)//json
-XXXXXXXXX contains the your IpAddress.
+1. Ip Address Locater : http://checkip.dyndns.com/
+2. Location Data : http://ipinfo.io/(XXXXXXXXX)//json
+3. XXXXXXXXX contains the your IpAddress.
 
 ## Dependencies:
 1. python v3.x is required.
